@@ -131,7 +131,7 @@ body {
 #hero{
      background-image: url("make.png");
 	height: 90vh;
-	width: 50%;
+	width: 90%;
 	background-size: cover;
 	background-position: top 25% right 0;
 	padding: 0 80px;
