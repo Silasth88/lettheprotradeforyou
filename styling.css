@@ -131,7 +131,7 @@ body {
 #hero{
      background-image: url("make.png");
 	height: 90vh;
-	width: 90%;
+	width: 100%;
 	background-size: cover;
 	background-position: top 25% right 0;
 	padding: 0 80px;
@@ -141,6 +141,7 @@ body {
 	justify-content: center;
 
 }
+
 
 #hero h4{
 padding-bottom: 15px;
